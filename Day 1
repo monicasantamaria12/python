@@ -1,0 +1,32 @@
+#_*_ coding: utf-8 _*_
+“””
+Spyder Editor
+
+This is a temporary script file.
+“””
+
+
+#A string
+class_name = “p5_Deliquents: “
+#Error class_name + 5 
+Student1 = “Carlos”
+top_deliquents = student1 + “, Nicholas, Gionna, Gonzalo”
+class_students = class_name + top_deliquents
+
+print(class_students)
+
+same_name = “2”
+Third_student = 3
+print(type(same_name))
+Student2 = “Carlos” + same_name
+print(student2)
+Student3 = “Carlos” + str(third_student)
+print(student3)
+
+#Int
+Grade1 = int(input(“What did you get in p1? “))
+Grade2 = int(input(“What did you get in p2? “))
+Grade3 = int(input(“What did you get in p3? “))
+Grade4 = int(input(“What did you get in p4? “))
+
+print(“To verify: You scored: “ + “/n
